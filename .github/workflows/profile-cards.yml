@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - README.md
+      - scripts/refresh-profile-cards.mjs
       - .github/workflows/profile-cards.yml
   schedule:
     - cron: '17 9 * * *'
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   cards:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
@@ -29,33 +30,8 @@ jobs:
         with:
           ref: main
 
-      - name: Render public GitHub activity
-        uses: stats-organization/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f # v1
-        with:
-          card: stats
-          options: username=0ghost8&show_icons=true&hide_rank=true&hide=contribs&locale=es&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=C9D1D9&border_color=303047&border_radius=16&card_width=440&custom_title=Actividad%20de%200ghost8
-          path: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Render public repository languages
-        uses: stats-organization/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f # v1
-        with:
-          card: top-langs
-          options: username=0ghost8&layout=compact&langs_count=6&locale=es&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=303047&border_radius=16&card_width=440&custom_title=Lenguajes%20en%20mis%20repositorios
-          path: assets/top-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Keep the last successful cards if generation fails
-        run: |
-          node --input-type=module <<'NODE'
-          import { readFileSync } from 'node:fs';
-          for (const path of ['assets/github-stats.svg', 'assets/top-languages.svg']) {
-            const svg = readFileSync(path, 'utf8');
-            if (!svg.includes('<svg') || /something went wrong|could not fetch|api rate limit|maximum retries|could not resolve/i.test(svg)) {
-              throw new Error('Card generation failed: ' + path);
-            }
-          }
-          NODE
+      - name: Refresh cards and preserve the last valid SVGs
+        run: node scripts/refresh-profile-cards.mjs
 
       - name: Publish updated cards
         run: |

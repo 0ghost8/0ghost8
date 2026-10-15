@@ -20,9 +20,11 @@
 
 `.github/workflows/profile-cards.yml` genera las tarjetas una vez al día, a las 03:17 de Guatemala (09:17 UTC), al editar el README y al ejecutarse manualmente desde Actions. Los horarios de GitHub pueden retrasarse.
 
-Usa únicamente el `GITHUB_TOKEN` temporal del workflow y datos públicos de `0ghost8`. No necesita un token personal ni muestra repositorios privados. Las acciones están fijadas a commits concretos.
+El script `scripts/refresh-profile-cards.mjs` consulta el servicio público de GitHub Readme Stats y guarda los SVG. Así, una interrupción del servicio durante una visita no rompe el perfil. La actualización sí depende de que el servicio responda correctamente.
 
-La generación valida las tarjetas antes de publicarlas. Si la consulta falla, la última versión correcta permanece en el README. Los commits del bot cambian solo las tarjetas y no vuelven a disparar el workflow.
+Solo usa datos públicos de `0ghost8`. El `GITHUB_TOKEN` temporal se usa para publicar los archivos en este repositorio y no se envía al servicio externo. No necesita un token personal ni muestra repositorios privados. La acción de checkout está fijada a un commit concreto.
+
+La actualización reintenta las consultas y valida las tarjetas antes de publicarlas. Si una consulta falla, conserva su última versión correcta. Si ambas fallan, el workflow informa del fallo sin modificar las tarjetas guardadas. Los commits del bot cambian solo las tarjetas y no vuelven a disparar el workflow.
 
 Las tarjetas no miden nivel técnico: muestran actividad pública y distribución de código por lenguaje. La cuenta escolar es independiente.
 

@@ -58,25 +58,25 @@ Actualmente afino mis habilidades y me preparo para mis **prácticas profesional
 **Frontend**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,ts,js,html,css&amp;theme=dark&amp;perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=angular,ts,js,html,css&amp;theme=light&amp;perline=6" />
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&amp;theme=dark&amp;perline=6" alt="Angular, TypeScript, JavaScript, HTML5 y CSS3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Chtml%2Ccss&amp;theme=dark&amp;perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Chtml%2Ccss&amp;theme=light&amp;perline=6" />
+  <img src="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Chtml%2Ccss&amp;theme=dark&amp;perline=6" alt="Angular, TypeScript, JavaScript, HTML5 y CSS3" />
 </picture>
 
 **Backend y datos**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,cpp&amp;theme=dark&amp;perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,cpp&amp;theme=light&amp;perline=6" />
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,cpp&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, Node.js, Express, MySQL y C++" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cexpress%2Cmysql%2Ccpp&amp;theme=dark&amp;perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cexpress%2Cmysql%2Ccpp&amp;theme=light&amp;perline=6" />
+  <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cexpress%2Cmysql%2Ccpp&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, Node.js, Express, MySQL y C++" />
 </picture>
 
 **Herramientas**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&amp;theme=dark&amp;perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&amp;theme=light&amp;perline=6" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&amp;theme=dark&amp;perline=6" alt="Git, GitHub, Docker y Postman" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cpostman&amp;theme=dark&amp;perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cpostman&amp;theme=light&amp;perline=6" />
+  <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cpostman&amp;theme=dark&amp;perline=6" alt="Git, GitHub, Docker y Postman" />
 </picture>
 
 <p>
