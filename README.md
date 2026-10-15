@@ -60,6 +60,8 @@ Portafolio personal maquetado desde cero con **HTML y CSS puro**.
 
 **Correo:** [pablodrequena@gmail.com](mailto:pablodrequena@gmail.com)
 
+**Discord:** [Mi perfil de Discord](https://discord.com/users/784500933202542644)
+
 ---
 
 <div align="center">
