@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">0ghost8 — Código, ideas y un poco de ghost</title>
+  <desc id="desc">Banner de terminal con fondo oscuro, acentos violetas y un fantasma ilustrado.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171329"/><stop offset="1" stop-color="#0b0d17"/></linearGradient>
+    <linearGradient id="ghost" x2="0" y2="1"><stop stop-color="#f5f0ff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#8b5cf6" stop-opacity=".3"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a78bfa" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+  <circle cx="965" cy="190" r="185" fill="url(#halo)"/>
+  <rect x="28" y="28" width="1144" height="324" rx="16" fill="none" stroke="#a78bfa" stroke-opacity=".22"/>
+  <path d="M28 78H1172" stroke="#a78bfa" stroke-opacity=".18"/>
+  <g><circle cx="54" cy="53" r="5" fill="#f87171"/><circle cx="74" cy="53" r="5" fill="#fbbf24"/><circle cx="94" cy="53" r="5" fill="#4ade80"/></g>
+  <text x="600" y="58" fill="#9d95b0" font-family="monospace" font-size="13" text-anchor="middle">~/0ghost8</text>
+  <text x="76" y="132" fill="#a78bfa" font-family="monospace" font-size="16">$ whoami</text>
+  <text x="72" y="216" fill="#f5f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">0ghost8<tspan fill="#a78bfa">_</tspan></text>
+  <text x="77" y="260" fill="#c4bed4" font-family="Segoe UI,Arial,sans-serif" font-size="23">Código, ideas y un poco de ghost.</text>
+  <text x="77" y="316" fill="#8e86a3" font-family="monospace" font-size="13">CREAR / EXPLORAR / REPETIR</text>
+  <ellipse cx="972" cy="310" rx="70" ry="10" fill="#a78bfa" opacity=".12"/>
+  <path d="M900 280V173a72 72 0 0 1 144 0v107l-24-17-24 17-24-17-24 17-24-17Z" fill="url(#ghost)"/>
+  <ellipse cx="949" cy="186" rx="10" ry="16" fill="#251d40"/><ellipse cx="995" cy="186" rx="10" ry="16" fill="#251d40"/>
+  <path d="M960 218q12 12 24 0" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#c4b5fd"><path d="M1080 130v16m-8-8h16" stroke="#c4b5fd" stroke-width="2"/><circle cx="864" cy="232" r="3"/><circle cx="1057" cy="250" r="3"/></g>
+</svg>
+
