@@ -7,6 +7,7 @@
 - Cian: `#67E8F9` / `#22D3EE`.
 - El banner es un SVG propio, editable en `assets/ghost-banner.svg`.
 - El texto principal sigue siendo HTML y Markdown compatibles con GitHub; no requiere JavaScript ni CSS externo.
+- Los enlaces de navegación incluyen `user-content-`, el prefijo que GitHub aplica a los identificadores personalizados dentro del perfil.
 
 ## Integraciones
 

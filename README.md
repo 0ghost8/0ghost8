@@ -1,4 +1,6 @@
 <!-- Perfil de 0ghost8. Guía de mantenimiento: docs/profile-design.md -->
+<a id="inicio"></a>
+
 <div align="center">
 
 <img src="./assets/ghost-banner.svg" width="100%" alt="0ghost8 — El laboratorio de Pablo. Software, hardware e ideas propias." />
@@ -19,9 +21,9 @@
 <a href="https://discord.com/users/784500933202542644"><img src="https://img.shields.io/badge/Discord-Conectemos-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=161B22" alt="Conectemos en Discord" /></a>
 <a href="https://github.com/0ghost8?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Mis_proyectos-22D3EE?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161B22" alt="Explora mis repositorios" /></a>
 
-<br /><br />
+<br />
 
-[Sobre mí](#sobre-mi) &nbsp; · &nbsp; [Stack](#stack) &nbsp; · &nbsp; [Proyectos](#proyectos) &nbsp; · &nbsp; [Actividad](#actividad) &nbsp; · &nbsp; [Contacto](#contacto)
+[Sobre mí](#user-content-sobre-mi) &nbsp; · &nbsp; [Stack](#user-content-stack) &nbsp; · &nbsp; [Proyectos](#user-content-proyectos) &nbsp; · &nbsp; [Actividad](#user-content-actividad) &nbsp; · &nbsp; [Contacto](#user-content-contacto)
 
 </div>
 
@@ -161,6 +163,8 @@ Me interesa conversar sobre **desarrollo, hardware y proyectos con identidad pro
 ### Menos ideas guardadas. Más cosas creadas.
 
 <sub>Gracias por pasar por este rincón de GitHub. 👻</sub>
+
+[Volver arriba ↑](#user-content-inicio)
 
 <br /><br />
 
