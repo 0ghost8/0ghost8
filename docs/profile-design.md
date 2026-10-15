@@ -19,7 +19,7 @@
 
 ## Estadísticas
 
-`.github/workflows/profile-cards.yml` genera las tarjetas una vez al día, a las 03:17 de Guatemala (09:17 UTC), al editar el README y al ejecutarse manualmente desde Actions. Los horarios de GitHub pueden retrasarse.
+`.github/workflows/profile-cards.yml` genera las tarjetas una vez al día, a las 09:17 UTC, al editar el README y al ejecutarse manualmente desde Actions. Los horarios de GitHub pueden retrasarse.
 
 El script `scripts/refresh-profile-cards.mjs` consulta el servicio público de GitHub Readme Stats y guarda los SVG. Así, una interrupción del servicio durante una visita no rompe el perfil. La actualización sí depende de que el servicio responda correctamente.
 
@@ -31,6 +31,10 @@ Las tarjetas no miden nivel técnico: muestran actividad pública y distribució
 
 ## Contenido
 
-Conservar el nombre, centro educativo y datos de contacto proporcionados por Pablo. La edad y el estado de las prácticas se actualizan manualmente.
+Conservar el nombre, centro educativo y datos de contacto proporcionados por David Requena Mollinedo. El estado de las prácticas se actualizan manualmente.
 
-Solo enlazar proyectos cuyos repositorios públicos se hayan verificado. No inventar enlaces para Auto-Solver-GODTS, ElSurco o Mi Perfil Pablo.
+Solo enlazar proyectos cuyos repositorios públicos se hayan verificado. No inventar enlaces para Auto-Solver-GODTS, ElSurco o Portafolio personal.
+
+## Presentación personal
+
+Nombre visible: **David Requena Mollinedo**. Mantener la presentación sin referencias de género, edad o residencia actual. La formación se menciona únicamente como **Informática en Kinal** y el origen declarado es **California**.
