@@ -5,9 +5,9 @@
 
 <img src="./assets/ghost-banner.svg" width="100%" alt="0ghost8 — El laboratorio de Pablo. Software, hardware e ideas propias." />
 
-# Hola, soy Pablo 👋
+# Hola, soy 0ghost 👋
 
-**Pablo David Requena Mollinedo · `0ghost8`**
+**David · `0ghost8`**
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1500&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;lines=Desarrollo%20Full%20Stack%3BDel%20hardware%20a%20la%20arquitectura%20web%3BIdeas%20propias.%20Codigo%20con%20identidad." width="720" alt="Desarrollo Full Stack. Del hardware a la arquitectura web. Ideas propias, código con identidad." />
 
@@ -33,7 +33,7 @@
 
 ## 👻 Detrás de 0ghost8
 
-Tengo **19 años** y estudio Informática en el **Centro Educativo Técnico Laboral Kinal, Guatemala**. Me apasiona entender cómo funcionan las cosas: desde una pieza de hardware hasta la arquitectura de una aplicación web.
+Tengo **19 años** y estudio Informática en el **Centro Educativo Técnico Laboral Kinal **. Me apasiona entender cómo funcionan las cosas: desde una pieza de hardware hasta la arquitectura de una aplicación web.
 
 Actualmente afino mis habilidades y me preparo para mis **prácticas profesionales de TI**.
 
