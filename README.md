@@ -21,6 +21,8 @@
 <a href="https://discord.com/users/784500933202542644"><img src="https://img.shields.io/badge/Discord-Conectemos-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=161B22" alt="Conectemos en Discord" /></a>
 <a href="https://github.com/0ghost8?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Mis_proyectos-22D3EE?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161B22" alt="Explora mis repositorios" /></a>
 
+<a href="https://github.com/Pablo-Rf8"><img src="https://img.shields.io/badge/Mi_otra_cuenta-Pablo--Rf8-38BDF8?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161B22" alt="Pablo-Rf8 — mi perfil académico de GitHub" /></a>
+
 <br />
 
 [Sobre mí](#user-content-sobre-mi) &nbsp; · &nbsp; [Stack](#user-content-stack) &nbsp; · &nbsp; [Proyectos](#user-content-proyectos) &nbsp; · &nbsp; [Actividad](#user-content-actividad) &nbsp; · &nbsp; [Contacto](#user-content-contacto)
@@ -157,6 +159,7 @@ Me interesa conversar sobre **desarrollo, hardware y proyectos con identidad pro
 
 - **Correo:** [pablodrequena@gmail.com](mailto:pablodrequena@gmail.com)
 - **Discord:** [Encuéntrame aquí](https://discord.com/users/784500933202542644)
+- **Mi perfil académico:** [Pablo-Rf8 — formación y proyectos en Kinal](https://github.com/Pablo-Rf8)
 
 <div align="center">
 
