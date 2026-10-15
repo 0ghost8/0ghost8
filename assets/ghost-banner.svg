@@ -1,27 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">0ghost8 — Código, ideas y un poco de ghost</title>
-  <desc id="desc">Banner de terminal con fondo oscuro, acentos violetas y un fantasma ilustrado.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171329"/><stop offset="1" stop-color="#0b0d17"/></linearGradient>
-    <linearGradient id="ghost" x2="0" y2="1"><stop stop-color="#f5f0ff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
-    <radialGradient id="halo"><stop stop-color="#8b5cf6" stop-opacity=".3"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a78bfa" stroke-opacity=".06"/></pattern>
-  </defs>
-  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="24" fill="url(#grid)"/>
-  <circle cx="965" cy="190" r="185" fill="url(#halo)"/>
-  <rect x="28" y="28" width="1144" height="324" rx="16" fill="none" stroke="#a78bfa" stroke-opacity=".22"/>
-  <path d="M28 78H1172" stroke="#a78bfa" stroke-opacity=".18"/>
-  <g><circle cx="54" cy="53" r="5" fill="#f87171"/><circle cx="74" cy="53" r="5" fill="#fbbf24"/><circle cx="94" cy="53" r="5" fill="#4ade80"/></g>
-  <text x="600" y="58" fill="#9d95b0" font-family="monospace" font-size="13" text-anchor="middle">~/0ghost8</text>
-  <text x="76" y="132" fill="#a78bfa" font-family="monospace" font-size="16">$ whoami</text>
-  <text x="72" y="216" fill="#f5f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">0ghost8<tspan fill="#a78bfa">_</tspan></text>
-  <text x="77" y="260" fill="#c4bed4" font-family="Segoe UI,Arial,sans-serif" font-size="23">Código, ideas y un poco de ghost.</text>
-  <text x="77" y="316" fill="#8e86a3" font-family="monospace" font-size="13">CREAR / EXPLORAR / REPETIR</text>
-  <ellipse cx="972" cy="310" rx="70" ry="10" fill="#a78bfa" opacity=".12"/>
-  <path d="M900 280V173a72 72 0 0 1 144 0v107l-24-17-24 17-24-17-24 17-24-17Z" fill="url(#ghost)"/>
-  <ellipse cx="949" cy="186" rx="10" ry="16" fill="#251d40"/><ellipse cx="995" cy="186" rx="10" ry="16" fill="#251d40"/>
-  <path d="M960 218q12 12 24 0" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round"/>
-  <g fill="#c4b5fd"><path d="M1080 130v16m-8-8h16" stroke="#c4b5fd" stroke-width="2"/><circle cx="864" cy="232" r="3"/><circle cx="1057" cy="250" r="3"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">0ghost8 — El laboratorio de Pablo</title>
+<desc id="desc">Un fantasma de cristal flota sobre anillos orbitales, entre luces violetas y cian. Código, hardware e ideas propias.</desc>
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C1020"/><stop offset=".55" stop-color="#15122A"/><stop offset="1" stop-color="#0A1622"/></linearGradient>
+  <radialGradient id="violet"><stop stop-color="#8B5CF6" stop-opacity=".38"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cyan"><stop stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#E9D5FF"/></linearGradient>
+  <linearGradient id="body" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#FFF"/><stop offset=".35" stop-color="#E8E4FF"/><stop offset=".75" stop-color="#B8B9F7"/><stop offset="1" stop-color="#81E3F0"/></linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF" stop-opacity=".8"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".2"/><stop offset="1" stop-color="#67E8F9" stop-opacity=".65"/></linearGradient>
+  <radialGradient id="glass" cx=".3" cy=".25"><stop stop-color="#F0FDFF" stop-opacity=".55"/><stop offset=".28" stop-color="#67E8F9" stop-opacity=".2"/><stop offset=".75" stop-color="#8B5CF6" stop-opacity=".12"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".4"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#A5B4FC" stroke-opacity=".045"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#base)"/>
+<rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<ellipse cx="970" cy="180" rx="300" ry="260" fill="url(#violet)"/>
+<ellipse cx="175" cy="380" rx="350" ry="200" fill="url(#cyan)"/>
+<rect x="20.5" y="20.5" width="1159" height="349" rx="17" fill="none" stroke="url(#rim)" stroke-opacity=".3"/>
+<path d="M21 65H1179" stroke="#A78BFA" stroke-opacity=".14"/>
+<g fill="#A78BFA"><circle cx="47" cy="43" r="4"/><circle cx="64" cy="43" r="4" opacity=".55"/><circle cx="81" cy="43" r="4" opacity=".25"/></g>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="2">
+  <text x="106" y="47" fill="#9CA3BF">0GHOST8 / PERSONAL SPACE</text>
+  <circle cx="1032" cy="42" r="3" fill="#67E8F9"/>
+  <text x="1045" y="47" fill="#B5C8D9">GUATEMALA</text>
+</g>
+<rect x="64" y="101" width="222" height="27" rx="13.5" fill="#A78BFA" fill-opacity=".08" stroke="#A78BFA" stroke-opacity=".25"/>
+<text x="80" y="119" fill="#C4B5FD" font-family="Consolas,monospace" font-size="11" letter-spacing="1.4">SOFTWARE / HARDWARE / IDEAS</text>
+<text x="58" y="225" fill="#F2F2FF" font-family="Segoe UI,Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-5">0ghost8<tspan fill="#67E8F9" font-weight="400">_</tspan></text>
+<text x="65" y="267" fill="#B5B8D0" font-family="Segoe UI,Arial,sans-serif" font-size="23">Ideas propias. Código con identidad.</text>
+<path d="M65 305H570" stroke="url(#accent)" stroke-opacity=".28"/>
+<g font-family="Consolas,monospace" font-size="12">
+  <text x="65" y="337" fill="#67E8F9">01</text><text x="91" y="337" fill="#929AB7">CREAR</text>
+  <text x="229" y="337" fill="#A78BFA">02</text><text x="255" y="337" fill="#929AB7">EXPLORAR</text>
+  <text x="416" y="337" fill="#67E8F9">03</text><text x="442" y="337" fill="#929AB7">APRENDER</text>
+</g>
+<ellipse cx="930" cy="305" rx="112" ry="18" fill="#8B5CF6" opacity=".25" filter="url(#glow)"/>
+<ellipse cx="930" cy="294" rx="151" ry="34" fill="none" stroke="#A78BFA" stroke-opacity=".2"/>
+<ellipse cx="930" cy="294" rx="115" ry="24" fill="none" stroke="#67E8F9" stroke-opacity=".3"/>
+<path d="M858 268V174a72 72 0 0 1 144 0v94l-24-16-24 16-24-16-24 16-24-16Z" fill="url(#body)" stroke="url(#rim)" stroke-width="2"/>
+<path d="M873 170a57 57 0 0 1 82-51" fill="none" stroke="#FFF" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="908" cy="183" rx="9" ry="14" fill="#272341"/><ellipse cx="954" cy="183" rx="9" ry="14" fill="#272341"/>
+<circle cx="910" cy="179" r="2.5" fill="#FFF"/><circle cx="956" cy="179" r="2.5" fill="#FFF"/>
+<ellipse cx="888" cy="209" rx="10" ry="5" fill="#A78BFA" opacity=".3"/><ellipse cx="975" cy="209" rx="10" ry="5" fill="#A78BFA" opacity=".3"/>
+<path d="M921 212q10 10 20 0" fill="none" stroke="#6553A6" stroke-width="4" stroke-linecap="round"/>
+<g fill="url(#glass)" stroke="url(#rim)">
+  <circle cx="1071" cy="136" r="33"/><circle cx="802" cy="238" r="19"/><circle cx="1060" cy="287" r="12"/>
+</g>
+<path d="M1054 119q10-10 21-7M791 231q3-6 9-7" fill="none" stroke="#FFF" stroke-opacity=".6" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="none" stroke="#67E8F9" stroke-width="1.5" opacity=".8"><path d="M805 110v14m-7-7h14"/><path d="M1079 219v12m-6-6h12"/></g>
+<g fill="#C4B5FD"><circle cx="828" cy="172" r="2"/><circle cx="1027" cy="91" r="2"/><circle cx="1100" cy="326" r="2"/><circle cx="736" cy="291" r="1.5"/></g>
+<path d="M720 346q185-40 382 0" fill="none" stroke="url(#accent)" stroke-opacity=".15"/>
 </svg>
-
