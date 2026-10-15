@@ -2,43 +2,63 @@
 
 <img src="./assets/ghost-banner.svg" alt="0ghost8 — Código, ideas y un poco de ghost." width="100%" />
 
-# Soy Pablo · `0ghost8` 👻
+# Hola, soy Pablo David Requena Mollinedo 👋
 
-**Un espacio para mis ideas, mis proyectos y lo que voy aprendiendo al crearlos.**
+**`0ghost8` · Estudiante de Informática · Guatemala**
 
-[Explorar mis repositorios](https://github.com/0ghost8?tab=repositories) · [Ver CODA-GARO](https://github.com/0ghost8/CODA-GARO)
+Desarrollo de software, arquitectura web y hardware.
+
+[Mis proyectos](#-proyectos-destacados) · [Tecnologías](#-tecnologías-y-herramientas) · [Contacto](#-cómo-conectar-conmigo)
 
 </div>
 
 ---
 
-### `01 / detrás del alias`
+Soy un estudiante de Informática de 19 años en el **Centro Educativo Técnico Laboral Kinal (Guatemala)**, apasionado por el desarrollo de software, la arquitectura web y el hardware. Actualmente me encuentro afinando mis habilidades técnicas y preparándome para mis **prácticas profesionales de TI**.
 
-Me gusta darle forma a las ideas con código y dejar un poco de mi estilo en cada proyecto.
-Por aquí encontrarás aplicaciones web, interfaces y experimentos personales.
+## 🚀 Sobre mí
 
-```text
-ghost@github:~$ cat about.txt
+- 🎓 Me enfoco en el desarrollo **Full Stack**, abarcando desde la estructuración de bases de datos hasta el diseño de interfaces.
+- 🛠️ Tengo experiencia asumiendo el rol de **Scrum Master**, gestionando repositorios y tableros de Trello, y liderando equipos de desarrollo estudiantiles.
+- 💻 Además de programar, me apasiona el diagnóstico de hardware, el mantenimiento de equipos y la configuración de redes.
+- 🕹️ Fuera del código, disfruto del ciclismo de ruta, la configuración de servidores dedicados (como Minecraft), el diseño visual con estéticas **Y2K / Frutiger Aero** y descubrir nueva música: IDM, lo-fi y rock alternativo.
 
-nombre    → Pablo
-alias     → 0ghost8
-espacio   → código + diseño + ideas propias
-estado    → en construcción, como los mejores proyectos
-```
+## 💻 Tecnologías y Herramientas
 
-### `02 / cosas que he construido`
-
-| Proyecto | De qué va |
+| Área | Tecnologías |
 | :--- | :--- |
-| 🐾 **[CODA-GARO](https://github.com/0ghost8/CODA-GARO)** | Plataforma de adopción y reporte de mascotas. Angular en el frontend; Node.js, TypeScript y MySQL detrás. |
-| 🪟 **[Aero Glass](https://github.com/0ghost8/aero-glass-Pablo-Requena)** | Un proyecto web para explorar interfaces y el estilo Aero Glass. |
-| ⛏️ **[Tienda Minecraft](https://github.com/0ghost8/ProyectoTiendaMinecraft-s-Vercions)** | Un proyecto de tienda con temática de Minecraft, desarrollado en Java. |
+| **Frontend** | Angular · TypeScript · HTML5 · CSS3 · Thymeleaf |
+| **Backend y bases de datos** | Java · Spring Boot · Node.js · Express · C++ · MySQL · Desarrollo de APIs REST |
+| **Entorno, herramientas y DevOps** | Git · Docker · ESLint · Postman · Integración de APIs de IA (Groq API) |
 
-### `03 / en mi caja de herramientas`
+## 📂 Proyectos Destacados
 
-**Web** · `HTML` `CSS` `TypeScript` `Angular`<br />
-**Backend y datos** · `Node.js` `Express` `MySQL`<br />
-**También en mis proyectos** · `Java` `Docker` `Git`
+### 🐾 [Coda Garo](https://github.com/0ghost8/CODA-GARO)
+
+Plataforma web para la adopción de mascotas desarrollada con **Angular, Node.js y Cloudinary** para la gestión de imágenes.<br />
+**Rol:** Scrum Master.
+
+### ♻️ EcoPlaca
+
+Aplicación web enfocada en concientizar y facilitar el reciclaje de basura electrónica y hardware.
+
+### 🤖 Auto-Solver-GODTS
+
+Userscript automatizado en **JavaScript** que integra modelos **Llama mediante la API de Groq** para la resolución asistida de tareas.
+
+### ☕ Ecosistema Spring Boot
+
+Desarrollo continuo de aplicaciones web y APIs REST en **Java**, incluyendo proyectos como *ElSurco* y [*ProyectoTiendaMinecraft*](https://github.com/0ghost8/ProyectoTiendaMinecraft-s-Vercions).
+
+### 🎨 Mi Perfil Pablo
+
+Portafolio personal maquetado desde cero con **HTML y CSS puro**.
+
+[Explorar todos mis repositorios →](https://github.com/0ghost8?tab=repositories)
+
+## 📫 Cómo conectar conmigo
+
+**Correo:** [pablodrequena@gmail.com](mailto:pablodrequena@gmail.com)
 
 ---
 
