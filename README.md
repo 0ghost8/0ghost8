@@ -1,73 +1,68 @@
-<div align="center">
+![0ghost8 — Código, ideas y un poco de ghost.](https://raw.githubusercontent.com/0ghost8/0ghost8/main/assets/ghost-banner.svg)
 
-<img src="./assets/ghost-banner.svg" alt="0ghost8 — Código, ideas y un poco de ghost." width="100%" />
+# Hola, soy Pablo 👋
 
-# Hola, soy Pablo David Requena Mollinedo 👋
+**Pablo David Requena Mollinedo · `0ghost8`**
 
-**`0ghost8` · Estudiante de Informática · Guatemala**
+### Software, hardware y un toque de Frutiger Aero.
 
-Desarrollo de software, arquitectura web y hardware.
+Estudiante de Informática en Kinal · Guatemala 🇬🇹
 
-[Mis proyectos](#-proyectos-destacados) · [Tecnologías](#-tecnologías-y-herramientas) · [Contacto](#-cómo-conectar-conmigo)
+Preparándome para mis prácticas profesionales de TI.
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-0ghost8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0ghost8?tab=repositories)
+[![Correo](https://img.shields.io/badge/Correo-Hablemos-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodrequena@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Conectemos-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/784500933202542644)
+
+[Sobre mí](#detrás-de-0ghost8) · [Tecnologías](#mi-caja-de-herramientas) · [Proyectos](#ideas-que-he-llevado-al-código) · [Contacto](#conectemos)
 
 ---
 
-Soy un estudiante de Informática de 19 años en el **Centro Educativo Técnico Laboral Kinal (Guatemala)**, apasionado por el desarrollo de software, la arquitectura web y el hardware. Actualmente me encuentro afinando mis habilidades técnicas y preparándome para mis **prácticas profesionales de TI**.
+## Detrás de 0ghost8
 
-## 🚀 Sobre mí
+Tengo **19 años** y estudio Informática en el **Centro Educativo Técnico Laboral Kinal (Guatemala)**. Me apasionan el desarrollo de software, la arquitectura web y el hardware. Actualmente afino mis habilidades técnicas y me preparo para mis **prácticas profesionales de TI**.
 
-- 🎓 Me enfoco en el desarrollo **Full Stack**, abarcando desde la estructuración de bases de datos hasta el diseño de interfaces.
-- 🛠️ Tengo experiencia asumiendo el rol de **Scrum Master**, gestionando repositorios y tableros de Trello, y liderando equipos de desarrollo estudiantiles.
-- 💻 Además de programar, me apasiona el diagnóstico de hardware, el mantenimiento de equipos y la configuración de redes.
-- 🕹️ Fuera del código, disfruto del ciclismo de ruta, la configuración de servidores dedicados (como Minecraft), el diseño visual con estéticas **Y2K / Frutiger Aero** y descubrir nueva música: IDM, lo-fi y rock alternativo.
+- 🎓 **Desarrollo Full Stack:** desde la estructuración de bases de datos hasta el diseño de interfaces.
+- 🛠️ **Trabajo en equipo:** experiencia como **Scrum Master**, gestionando repositorios y tableros de Trello, y liderando equipos de desarrollo estudiantiles.
+- 🖥️ **Más allá del software:** diagnóstico de hardware, mantenimiento de equipos y configuración de redes.
 
-## 💻 Tecnologías y Herramientas
+### Fuera del código
 
-| Área | Tecnologías |
+🚴 Ciclismo de ruta · ⛏️ Servidores dedicados de Minecraft · 🫧 Diseño Y2K / Frutiger Aero
+
+🎧 IDM · lo-fi · rock alternativo
+
+## Mi caja de herramientas
+
+| Área | Tecnologías y herramientas |
 | :--- | :--- |
 | **Frontend** | Angular · TypeScript · HTML5 · CSS3 · Thymeleaf |
-| **Backend y bases de datos** | Java · Spring Boot · Node.js · Express · C++ · MySQL · Desarrollo de APIs REST |
-| **Entorno, herramientas y DevOps** | Git · Docker · ESLint · Postman · Integración de APIs de IA (Groq API) |
+| **Backend** | Java · Spring Boot · Node.js · Express · C++ · APIs REST |
+| **Datos** | MySQL |
+| **Entorno y DevOps** | Git · Docker · ESLint · Postman |
+| **Integraciones** | APIs de IA · Groq API |
 
-## 📂 Proyectos Destacados
+## Ideas que he llevado al código
 
-### 🐾 [Coda Garo](https://github.com/0ghost8/CODA-GARO)
-
-Plataforma web para la adopción de mascotas desarrollada con **Angular, Node.js y Cloudinary** para la gestión de imágenes.<br />
-**Rol:** Scrum Master.
-
-### ♻️ EcoPlaca
-
-Aplicación web enfocada en concientizar y facilitar el reciclaje de basura electrónica y hardware.
-
-### 🤖 Auto-Solver-GODTS
-
-Userscript automatizado en **JavaScript** que integra modelos **Llama mediante la API de Groq** para la resolución asistida de tareas.
-
-### ☕ Ecosistema Spring Boot
-
-Desarrollo continuo de aplicaciones web y APIs REST en **Java**, incluyendo proyectos como *ElSurco* y [*ProyectoTiendaMinecraft*](https://github.com/0ghost8/ProyectoTiendaMinecraft-s-Vercions).
-
-### 🎨 Mi Perfil Pablo
-
-Portafolio personal maquetado desde cero con **HTML y CSS puro**.
+| Proyecto | Qué construí |
+| :--- | :--- |
+| 🐾 **[Coda Garo](https://github.com/0ghost8/CODA-GARO)** | Plataforma de adopción de mascotas con **Angular, Node.js y Cloudinary** para imágenes. **Rol: Scrum Master.** |
+| ♻️ **EcoPlaca** | Aplicación web para concientizar y facilitar el reciclaje de basura electrónica y hardware. |
+| 🤖 **Auto-Solver-GODTS** | Userscript en **JavaScript** que integra modelos **Llama mediante Groq** para la resolución asistida de tareas. |
+| ☕ **Ecosistema Spring Boot** | Aplicaciones web y APIs REST en **Java**, incluyendo *ElSurco* y [*ProyectoTiendaMinecraft*](https://github.com/0ghost8/ProyectoTiendaMinecraft-s-Vercions). |
+| 🎨 **Mi Perfil Pablo** | Portafolio personal maquetado desde cero con **HTML y CSS puro**. |
 
 [Explorar todos mis repositorios →](https://github.com/0ghost8?tab=repositories)
 
-## 📫 Cómo conectar conmigo
+## Conectemos
 
-**Correo:** [pablodrequena@gmail.com](mailto:pablodrequena@gmail.com)
+¿Quieres conversar sobre desarrollo, hardware o algún proyecto?
 
-**Discord:** [Mi perfil de Discord](https://discord.com/users/784500933202542644)
+- **Correo:** [pablodrequena@gmail.com](mailto:pablodrequena@gmail.com)
+- **Discord:** [Encuéntrame aquí](https://discord.com/users/784500933202542644)
 
 ---
 
-<div align="center">
+**Menos ideas guardadas. Más cosas creadas.**
 
-<sub>Menos ideas guardadas. Más cosas creadas.</sub>
-
-**Gracias por pasar por este rincón de GitHub. 👻**
-
-</div>
+*Gracias por pasar por este rincón de GitHub. 👻*
